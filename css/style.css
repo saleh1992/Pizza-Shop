@@ -271,7 +271,7 @@ header .serves-parallax {
   left: 0;
   right: 0;
 }
-@media (max-width: 767px) {
+@media (max-width: 676px) {
   header .serves-parallax {
     bottom: 141px;
   }
@@ -640,13 +640,13 @@ header .serves-parallax .box:hover a::after {
     padding: 0 0 16px 17px;
   }
 }
-@media (min-width:768px) and (max-width: 1103px) {
+@media (min-width: 768px) and (max-width: 1103px) {
   .popular-food .row-cont .content {
     padding: 0 0 13px 0;
     flex: 1;
   }
 }
-@media (max-width:767px) {
+@media (max-width: 767px) {
   .popular-food .row-cont .content {
     padding: 0 0 10px;
     text-align: center;
@@ -1004,7 +1004,7 @@ footer .content .subscribe .mail i {
   justify-content: space-between;
   align-items: center;
 }
-@media (max-width:767px) {
+@media (max-width: 767px) {
   .footer-bottom .container {
     flex-direction: column;
     padding: 20px 0;
@@ -1013,7 +1013,7 @@ footer .content .subscribe .mail i {
 .footer-bottom .container .payment {
   display: inline-flex;
 }
-@media (max-width:767px) {
+@media (max-width: 767px) {
   .footer-bottom .container .payment {
     align-items: center;
     flex-direction: column;
@@ -1030,7 +1030,7 @@ footer .content .subscribe .mail i {
   background-repeat: no-repeat;
   margin-left: 30px;
 }
-@media (max-width:767px) {
+@media (max-width: 767px) {
   .footer-bottom .container .payment .img-content {
     margin: 0;
   }
@@ -1055,7 +1055,7 @@ footer .content .subscribe .mail i {
   background: #e60000;
   color: white;
 }
-.copyright  p{
+.copyright p {
   margin: 0;
   padding: 18px 0;
   font-size: 14px;
